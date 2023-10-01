@@ -1,0 +1,672 @@
+Uri: http://fonts.googleapis.com/css?family=Arimo
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css-1
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Economica
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css-4
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Rye
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css-3
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Wallpoet
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css-2
+Content Type: text/css
+
+Uri: http://fonts.gstatic.com/s/arimo/v29/P5sfzZCDf9_T_3cV7NCUECyoxNk37cxcABrE.ttf
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\s\arimo\v29\P5sfzZCDf9_T_3cV7NCUECyoxNk37cxcABrE.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/economica/v15/Qw3fZQZaHCLgIWa29ZBbNsIE.ttf
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\s\economica\v15\Qw3fZQZaHCLgIWa29ZBbNsIE.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/rye/v15/r05XGLJT86YzEZ7o.ttf
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\s\rye\v15\r05XGLJT86YzEZ7o.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/wallpoet/v20/f0X10em2_8RnXVVdUObp58E.ttf
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\s\wallpoet\v20\f0X10em2_8RnXVVdUObp58E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700|Roboto:100,300,400,500,700,900
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css-5
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v33/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\s\robotoslab\v33\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v33/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\s\robotoslab\v33\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v33/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\s\robotoslab\v33\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v33/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\s\robotoslab\v33\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://nurturemanagementconsulting.com/
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\index.htm
+Content Type: text/html
+
+Uri: https://nurturemanagementconsulting.com/about.php
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\about.php.html
+Content Type: text/html
+
+Uri: https://nurturemanagementconsulting.com/blog.php
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\blog.php.html
+Content Type: text/html
+
+Uri: https://nurturemanagementconsulting.com/business.php
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\business.php.html
+Content Type: text/html
+
+Uri: https://nurturemanagementconsulting.com/contact.php
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\contact.php.html
+Content Type: text/html
+
+Uri: https://nurturemanagementconsulting.com/css/animate.css
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\animate.css
+Content Type: text/css
+
+Uri: https://nurturemanagementconsulting.com/css/bootstrap.min.css
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://nurturemanagementconsulting.com/css/bxslider/images/arrow-left.html
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\bxslider\images\arrow-left.html
+Content Type: text/html
+
+Uri: https://nurturemanagementconsulting.com/css/bxslider/images/arrow-right.html
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\bxslider\images\arrow-right.html
+Content Type: text/html
+
+Uri: https://nurturemanagementconsulting.com/css/bxslider/images/bx_loader.gif
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\bxslider\images\bx_loader.gif
+Content Type: image/gif
+
+Uri: https://nurturemanagementconsulting.com/css/colors/theme-skin-color-set1.css
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\colors\theme-skin-color-set1.css
+Content Type: text/css
+
+Uri: https://nurturemanagementconsulting.com/css/css-plugin-collections.css
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\css-plugin-collections.css
+Content Type: text/css
+
+Uri: https://nurturemanagementconsulting.com/css/custom-bootstrap-margin-padding.css
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\custom-bootstrap-margin-padding.css
+Content Type: text/css
+
+Uri: https://nurturemanagementconsulting.com/css/elegant-icons.css
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\elegant-icons.css
+Content Type: text/css
+
+Uri: https://nurturemanagementconsulting.com/css/font-awesome-animation.min.css
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\font-awesome-animation.min.css
+Content Type: text/css
+
+Uri: https://nurturemanagementconsulting.com/css/font-awesome.min.css
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://nurturemanagementconsulting.com/css/font/ytp-regular.html
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\font\ytp-regular.html
+Content Type: text/html
+
+Uri: https://nurturemanagementconsulting.com/css/fonts/flexslider-icon-2.html
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\fonts\flexslider-icon-2.html
+Content Type: text/html
+
+Uri: https://nurturemanagementconsulting.com/css/fonts/flexslider-icon-3.html
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\fonts\flexslider-icon-3.html
+Content Type: text/html
+
+Uri: https://nurturemanagementconsulting.com/css/fonts/flexslider-icon-4.html
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\fonts\flexslider-icon-4.html
+Content Type: text/html
+
+Uri: https://nurturemanagementconsulting.com/css/fonts/flexslider-icon.html
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\fonts\flexslider-icon.html
+Content Type: text/html
+
+Uri: https://nurturemanagementconsulting.com/css/fonts/flexslider-icond41d.html?
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\fonts\flexslider-icond41d.html
+Content Type: text/html
+
+Uri: https://nurturemanagementconsulting.com/css/images/ui-icons_444444_256x240.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\images\ui-icons_444444_256x240.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/images/ui-icons_555555_256x240.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\images\ui-icons_555555_256x240.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/images/ui-icons_777620_256x240.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\images\ui-icons_777620_256x240.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/images/ui-icons_777777_256x240.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\images\ui-icons_777777_256x240.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/images/ui-icons_cc0000_256x240.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\images\ui-icons_cc0000_256x240.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/images/ui-icons_ffffff_256x240.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\images\ui-icons_ffffff_256x240.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/jquery-ui.min.css
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\jquery-ui.min.css
+Content Type: text/css
+
+Uri: https://nurturemanagementconsulting.com/css/lightbox/close.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\lightbox\close.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/lightbox/loading.gif
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\lightbox\loading.gif
+Content Type: image/gif
+
+Uri: https://nurturemanagementconsulting.com/css/lightbox/next.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\lightbox\next.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/lightbox/prev.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\lightbox\prev.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/menuzord-megamenu.css
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\menuzord-megamenu.css
+Content Type: text/css
+
+Uri: https://nurturemanagementconsulting.com/css/menuzord-skins/menuzord-boxed.css
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\menuzord-skins\menuzord-boxed.css
+Content Type: text/css
+
+Uri: https://nurturemanagementconsulting.com/css/nivolightbox-themes/default/close%402x.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\nivolightbox-themes\default\close@2x.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/nivolightbox-themes/default/close.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\nivolightbox-themes\default\close.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/nivolightbox-themes/default/loading%402x.gif
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\nivolightbox-themes\default\loading@2x.gif
+Content Type: image/gif
+
+Uri: https://nurturemanagementconsulting.com/css/nivolightbox-themes/default/loading.gif
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\nivolightbox-themes\default\loading.gif
+Content Type: image/gif
+
+Uri: https://nurturemanagementconsulting.com/css/nivolightbox-themes/default/next%402x.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\nivolightbox-themes\default\next@2x.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/nivolightbox-themes/default/next.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\nivolightbox-themes\default\next.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/nivolightbox-themes/default/prev%402x.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\nivolightbox-themes\default\prev@2x.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/nivolightbox-themes/default/prev.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\nivolightbox-themes\default\prev.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/owl.video.play.html
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\owl.video.play.html
+Content Type: text/html
+
+Uri: https://nurturemanagementconsulting.com/css/pe-icon-7-stroke.css
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\pe-icon-7-stroke.css
+Content Type: text/css
+
+Uri: https://nurturemanagementconsulting.com/css/preloader.css
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\preloader.css
+Content Type: text/css
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/dark_rounded/btnNext.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\dark_rounded\btnNext.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/dark_rounded/btnPrevious.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\dark_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/dark_rounded/contentPattern.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\dark_rounded\contentPattern.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/dark_rounded/loader.gif
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\dark_rounded\loader.gif
+Content Type: image/gif
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/dark_rounded/sprite.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\dark_rounded\sprite.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/dark_square/btnNext.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\dark_square\btnNext.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/dark_square/btnPrevious.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\dark_square\btnPrevious.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/dark_square/loader.gif
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\dark_square\loader.gif
+Content Type: image/gif
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/dark_square/sprite.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\dark_square\sprite.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/default/default_thumb.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\default\default_thumb.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/default/loader.gif
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\default\loader.gif
+Content Type: image/gif
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/default/sprite.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\default\sprite.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/default/sprite_next.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\default\sprite_next.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/default/sprite_prev.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\default\sprite_prev.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/default/sprite_x.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\default\sprite_x.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/default/sprite_y.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\default\sprite_y.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/facebook/btnNext.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\facebook\btnNext.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/facebook/btnPrevious.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\facebook\btnPrevious.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/facebook/contentPatternBottom.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\facebook\contentPatternBottom.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/facebook/contentPatternLeft.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\facebook\contentPatternLeft.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/facebook/contentPatternRight.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\facebook\contentPatternRight.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/facebook/contentPatternTop.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\facebook\contentPatternTop.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/facebook/default_thumbnail.gif
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\facebook\default_thumbnail.gif
+Content Type: image/gif
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/facebook/loader.gif
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\facebook\loader.gif
+Content Type: image/gif
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/facebook/sprite.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\facebook\sprite.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/light_rounded/btnNext.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\light_rounded\btnNext.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/light_rounded/btnPrevious.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\light_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/light_rounded/loader.gif
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\light_rounded\loader.gif
+Content Type: image/gif
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/light_rounded/sprite.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\light_rounded\sprite.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/light_square/btnNext.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\light_square\btnNext.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/light_square/btnPrevious.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\light_square\btnPrevious.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/prettyPhoto/light_square/sprite.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\prettyPhoto\light_square\sprite.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/css/responsive.css
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\responsive.css
+Content Type: text/css
+
+Uri: https://nurturemanagementconsulting.com/css/slick-slider/ajax-loader.gif
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\slick-slider\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://nurturemanagementconsulting.com/css/slick-slider/fonts/slick.eot
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\slick-slider\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nurturemanagementconsulting.com/css/slick-slider/fonts/slick.svg
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\slick-slider\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://nurturemanagementconsulting.com/css/slick-slider/fonts/slick.ttf
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\slick-slider\fonts\slick.ttf
+Content Type: application/font-sfnt
+
+Uri: https://nurturemanagementconsulting.com/css/slick-slider/fonts/slick.woff
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\slick-slider\fonts\slick.woff
+Content Type: application/font-woff
+
+Uri: https://nurturemanagementconsulting.com/css/slick-slider/fonts/slickd41d.eot?
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\slick-slider\fonts\slickd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nurturemanagementconsulting.com/css/style-main.css
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\style-main.css
+Content Type: text/css
+
+Uri: https://nurturemanagementconsulting.com/css/utility-classes.css
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\css\utility-classes.css
+Content Type: text/css
+
+Uri: https://nurturemanagementconsulting.com/financial.php
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\financial.php.html
+Content Type: text/html
+
+Uri: https://nurturemanagementconsulting.com/fonts/ElegantIcons.eot
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\fonts\ElegantIcons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nurturemanagementconsulting.com/fonts/ElegantIcons.svg
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\fonts\ElegantIcons.svg
+Content Type: image/svg+xml
+
+Uri: https://nurturemanagementconsulting.com/fonts/ElegantIcons.ttf
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\fonts\ElegantIcons.ttf
+Content Type: application/font-sfnt
+
+Uri: https://nurturemanagementconsulting.com/fonts/ElegantIcons.woff
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\fonts\ElegantIcons.woff
+Content Type: application/font-woff
+
+Uri: https://nurturemanagementconsulting.com/fonts/ElegantIconsd41d.eot?
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\fonts\ElegantIconsd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nurturemanagementconsulting.com/fonts/fontawesome-webfont3e6e.eot?v=4.7.0
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\fonts\fontawesome-webfont3e6e.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nurturemanagementconsulting.com/fonts/fontawesome-webfont3e6e.svg?v=4.7.0
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\fonts\fontawesome-webfont3e6e.svg
+Content Type: image/svg+xml
+
+Uri: https://nurturemanagementconsulting.com/fonts/fontawesome-webfont3e6e.ttf?v=4.7.0
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\fonts\fontawesome-webfont3e6e.ttf
+Content Type: application/font-sfnt
+
+Uri: https://nurturemanagementconsulting.com/fonts/fontawesome-webfont3e6e.woff2?v=4.7.0
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\fonts\fontawesome-webfont3e6e.woff2
+Content Type: 
+
+Uri: https://nurturemanagementconsulting.com/fonts/fontawesome-webfont3e6e.woff?v=4.7.0
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\fonts\fontawesome-webfont3e6e.woff
+Content Type: application/font-woff
+
+Uri: https://nurturemanagementconsulting.com/fonts/fontawesome-webfontd41d.eot?
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\fonts\fontawesome-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nurturemanagementconsulting.com/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nurturemanagementconsulting.com/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://nurturemanagementconsulting.com/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/font-sfnt
+
+Uri: https://nurturemanagementconsulting.com/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\fonts\glyphicons-halflings-regular.woff
+Content Type: application/font-woff
+
+Uri: https://nurturemanagementconsulting.com/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\fonts\glyphicons-halflings-regular.woff2
+Content Type: 
+
+Uri: https://nurturemanagementconsulting.com/fonts/glyphicons-halflings-regulard41d.eot?
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\fonts\glyphicons-halflings-regulard41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nurturemanagementconsulting.com/fonts/Pe-icon-7-strokebb1d.eot?d7yf1v
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\fonts\Pe-icon-7-strokebb1d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nurturemanagementconsulting.com/fonts/Pe-icon-7-strokebb1d.svg?d7yf1v
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\fonts\Pe-icon-7-strokebb1d.svg
+Content Type: image/svg+xml
+
+Uri: https://nurturemanagementconsulting.com/fonts/Pe-icon-7-strokebb1d.ttf?d7yf1v
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\fonts\Pe-icon-7-strokebb1d.ttf
+Content Type: application/font-sfnt
+
+Uri: https://nurturemanagementconsulting.com/fonts/Pe-icon-7-strokebb1d.woff?d7yf1v
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\fonts\Pe-icon-7-strokebb1d.woff
+Content Type: application/font-woff
+
+Uri: https://nurturemanagementconsulting.com/fonts/Pe-icon-7-stroked41d.eot?
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\fonts\Pe-icon-7-stroked41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nurturemanagementconsulting.com/images/apple-touch-icon-114x114.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\images\apple-touch-icon-114x114.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/images/apple-touch-icon-144x144.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\images\apple-touch-icon-144x144.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/images/apple-touch-icon-72x72.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\images\apple-touch-icon-72x72.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/images/apple-touch-icon.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\images\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/images/blog/1.jpg
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\images\blog\1.jpg
+Content Type: image/jpeg
+
+Uri: https://nurturemanagementconsulting.com/images/blog/2.jpg
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\images\blog\2.jpg
+Content Type: image/jpeg
+
+Uri: https://nurturemanagementconsulting.com/images/blog/3.jpg
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\images\blog\3.jpg
+Content Type: image/jpeg
+
+Uri: https://nurturemanagementconsulting.com/images/clients/w1.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\images\clients\w1.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/images/clients/w2.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\images\clients\w2.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/images/clients/w3.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\images\clients\w3.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/images/clients/w4.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\images\clients\w4.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/images/clients/w5.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\images\clients\w5.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/images/close.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\images\close.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/images/favicon.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\images\favicon.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/images/logo-wide-white.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\images\logo-wide-white.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/images/logo-wide.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\images\logo-wide.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/images/megamenu/megamenu-dropdown.jpg
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\images\megamenu\megamenu-dropdown.jpg
+Content Type: image/jpeg
+
+Uri: https://nurturemanagementconsulting.com/images/pattern1.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\images\pattern1.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/images/pattern2.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\images\pattern2.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/images/pattern3.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\images\pattern3.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/images/photos/1.jpg
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\images\photos\1.jpg
+Content Type: image/jpeg
+
+Uri: https://nurturemanagementconsulting.com/images/play-button/s1.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\images\play-button\s1.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/images/preloaders/10.gif
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\images\preloaders\10.gif
+Content Type: image/gif
+
+Uri: https://nurturemanagementconsulting.com/images/services/lg2.html
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\images\services\lg2.html
+Content Type: text/html
+
+Uri: https://nurturemanagementconsulting.com/images/shadow-overlay.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\images\shadow-overlay.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/images/simbo.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\images\simbo.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/images/team/1.jpg
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\images\team\1.jpg
+Content Type: image/jpeg
+
+Uri: https://nurturemanagementconsulting.com/images/team/2.jpg
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\images\team\2.jpg
+Content Type: image/jpeg
+
+Uri: https://nurturemanagementconsulting.com/images/title-dots.png
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\images\title-dots.png
+Content Type: image/png
+
+Uri: https://nurturemanagementconsulting.com/index.php
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\index.php.html
+Content Type: text/html
+
+Uri: https://nurturemanagementconsulting.com/investment.php
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\investment.php.html
+Content Type: text/html
+
+Uri: https://nurturemanagementconsulting.com/js/chart.js
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\js\chart.js
+Content Type: application/javascript
+
+Uri: https://nurturemanagementconsulting.com/js/custom.js
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\js\custom.js
+Content Type: application/javascript
+
+Uri: https://nurturemanagementconsulting.com/js/jquery-2.2.4.min.js
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\js\jquery-2.2.4.min.js
+Content Type: application/javascript
+
+Uri: https://nurturemanagementconsulting.com/js/jquery-plugin-collection.js
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\js\jquery-plugin-collection.js
+Content Type: application/javascript
+
+Uri: https://nurturemanagementconsulting.com/js/jquery-ui.min.js
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\js\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://nurturemanagementconsulting.com/management.php
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\management.php.html
+Content Type: text/html
+
+Uri: https://nurturemanagementconsulting.com/research.php
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\research.php.html
+Content Type: text/html
+
+Uri: https://nurturemanagementconsulting.com/training.php
+File Name: C:\Users\user\Downloads\documents\nurturemanagementconsulting.com\training.php.html
+Content Type: text/html
+
