@@ -856,6 +856,10 @@ fieldset[disabled] .btn-theme-colored.focus {
 .text-theme-colored2 {
   color: #F7901F !important;
 }
+.text-theme-colored29 {
+  color: #F7901F !important;
+  font-size: 35px;
+}
 .text-hover-theme-colored2:hover {
   color: #F7901F !important;
 }

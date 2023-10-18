@@ -230,6 +230,34 @@ var THEMEMASCOT = {};
                     });
                 }
             });
+            $document.ready(function() {
+                console.log("function ready called ****       --------- ")
+                $('#myTab a:first').tab('show');
+              });
+            
+              // Handle tab click event
+            $document.on('click', '#myTab a', function(e) {
+                console.log("function called ****       --------- ")
+            e.preventDefault();
+            e.preventDefault();
+
+            // Remove active class from the previous active tab
+            $('#myTab li.active').removeClass('active');
+        
+            // Add active class to the clicked tab
+            $(this).parent('li').addClass('active');
+        
+            // Show the corresponding tab content
+            var targetTab = $(this).attr('href');
+            $('#myTabContent .tab-pane').removeClass('in active');
+            $(targetTab).addClass('in active');
+            
+            // $(this).tab('show');
+        
+            // // Update tooltips after tab change
+            // $('[data-toggle="tooltip"]').tooltip('dispose');
+            // $('[data-toggle="tooltip"]').tooltip();
+            });
 
         },
 
@@ -1697,6 +1725,7 @@ var THEMEMASCOT = {};
         /* ------------------------------- tooltip  ----------------------------- */
         /* ---------------------------------------------------------------------- */
         TM_tooltip: function() {
+            console.log("Change toggle called I dont know what it is doing ------------")
             var $tooltip = $('[data-toggle="tooltip"]');
             if( $tooltip.length > 0 ) {
                 $tooltip.tooltip();
