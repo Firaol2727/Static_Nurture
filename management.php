@@ -1,0 +1,587 @@
+﻿<!DOCTYPE html>
+<html dir="ltr" lang="en">
+
+
+<head>
+
+<!-- Meta Tags -->
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="description" content="Nurture provides state of- the- art training, research and consultancy in organizational management, organizational development, development management, leadership, finance and economics, international business, entrepreneurship and business development servicesso as to enable realize the highest level of executive and leadership talent">
+<meta name="keywords" content="consulting,finance,advisor,consultant,business,service,insurance,agency">
+<meta name="author" content="ThemeMascot">
+
+<!-- Page Title -->
+<title> Services | Nurture management conlsulting | Training company |Consulting company</title>
+
+<!-- Favicon and Touch Icons -->
+<link href="images/favicon.png" rel="shortcut icon" type="image/png">
+<link href="images/apple-touch-icon.png" rel="apple-touch-icon">
+<link href="images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
+<link href="images/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
+<link href="images/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144">
+
+<!-- Stylesheet -->
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="css/jquery-ui.min.css" rel="stylesheet" type="text/css">
+<link href="css/animate.css" rel="stylesheet" type="text/css">
+<link href="css/css-plugin-collections.css" rel="stylesheet">
+<!-- CSS | menuzord megamenu skins -->
+<link href="css/menuzord-megamenu.css" rel="stylesheet">
+<link id="menuzord-menu-skins" href="css/menuzord-skins/menuzord-boxed.css" rel="stylesheet">
+<!-- CSS | Main style file -->
+<link href="css/style-main.css" rel="stylesheet" type="text/css">
+<!-- CSS | Preloader Styles -->
+<link href="css/preloader.css" rel="stylesheet" type="text/css">
+<!-- CSS | Custom Margin Padding Collection -->
+<link href="css/custom-bootstrap-margin-padding.css" rel="stylesheet" type="text/css">
+<!-- CSS | Responsive media queries -->
+<link href="css/responsive.css" rel="stylesheet" type="text/css">
+<!-- CSS | Style css. This is the file where you can place your own custom css code. Just uncomment it and use it. -->
+<!-- <link href="css/style.css" rel="stylesheet" type="text/css"> -->
+
+<!-- CSS | Theme Color -->
+<link href="css/colors/theme-skin-color-set1.css" rel="stylesheet" type="text/css">
+
+<!-- external javascripts -->
+<script src="js/jquery-2.2.4.min.js"></script>
+<script src="js/jquery-ui.min.js"></script>
+
+<!-- JS | jquery plugin collection for this theme -->
+<script src="js/jquery-plugin-collection.js"></script>
+<script src="js/bootstrap.min.js"></script>
+</head>
+<body class="">
+<div id="wrapper" class="clearfix">
+  <!-- preloader -->
+
+  
+  <!-- Header -->
+  <header id="header" class="header">
+    <div class="header-top bg-theme-colored2 sm-text-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <div class="widget text-white">
+              <ul class="list-inline xs-text-center text-white">
+                <li class="m-0 pl-10 pr-10"> <a href="#" class="text-white"><i class="fa fa-phone text-white"></i> +251 911-466-399</a> </li>
+                <li class="m-0 pl-10 pr-10"> 
+                  <a href="mail:nurture.btc@gmail.com" class="text-white"><i class="fa fa-envelope-o text-white mr-5"></i>nurture.btc@gmail.com</a> 
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-4 pr-0">
+            <div class="widget">
+              <ul class="styled-icons icon-sm pull-right flip sm-pull-none sm-text-center mt-5">
+                <li><a href="https://www.facebook.com/profile.php?id=100019690144637"><i class="fa fa-facebook text-white"></i></a></li>
+                <li><a href="https://twitter.com/Nurture_2007"><i class="fa fa-twitter text-white"></i></a></li>
+                <li><a href="mailto:nurture.btc@gmail.com"><i class="fa fa-google-plus text-white"></i></a></li>
+                <li><a href="#"><i class="fa fa-instagram text-white"></i></a></li>
+                <li><a href="https://www.linkedin.com/in/nurture-africa-consulting-85436b262"><i class="fa fa-linkedin text-white"></i></a></li>
+              </ul>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+    <div class="header-nav">
+      <div class="header-nav-wrapper navbar-scrolltofixed bg-white">
+        <div class="container">
+          <nav id="menuzord-right" class="menuzord default"><a class="menuzord-brand pull-left flip mt-20 mt-sm-15 mb-sm-15" href="index.php.html"><img src="images/logo-wide.png" alt=""></a>
+           <ul class="menuzord-menu">
+              <li><a href="index.php.html">Home</a>
+              
+                  </li>
+
+                    <li><a href="about.php.html">About</a> </li>
+
+              <li class="active"><a href="#">Service</a>
+                <ul class="dropdown">
+                    <li><a href="management.php.html">Management development Consultancy</a></li>
+                  <li><a href="training.php.html">Training</a></li>
+                
+                  <li><a href="research.php.html">Research Based Business</a></li>
+                  <li><a href="investment.php.html">Investment Advisory</a></li>
+                
+                </ul>
+              </li>
+
+            
+
+               <li><a href="contact.php.html">Contact</a> </li>
+              
+                  <li><a href="javascript:void(0)">Nurture Blog <span class="label label-success">News</span></a>
+                <div class="megamenu megamenu-bg-img">
+
+
+
+
+
+
+                  <div class="megamenu-row">
+                  
+                    <div class="col3">
+                      <h4 class="megamenu-col-title">Featured News:</h4>
+                      <article class="post clearfix">
+                        <div class="entry-header">
+                          <div class="post-thumb"> <img class="img-responsive" src="images/blog/1.jpg" alt=""> </div>
+                        </div>
+                        <div class="entry-content">
+                          <p class="">
+ 
+
+  The UK management consulting sector expanded at its second fastest rate in a decade last year, as companies and government departments sought help with their Brexit planning.
+
+</p>
+                          <a class="btn btn-dark btn-theme-colored" href="blog.php.html">read more..</a> </div>
+                      </article>
+                    </div>
+                    <div class="col3">
+                     
+                    </div>
+                    <div class="col3">
+                      <h4 class="megamenu-col-title">Quick Links:</h4>
+                      <ul class="list-dashed list-icon">
+                        
+                  <li><a href="training.php.html">Training</a></li>
+                  <li><a href="management.php.html">Management Consultancy</a></li>
+                  <li><a href="research.php.html">Research Based Business</a></li>
+                  <li><a href="investment.php.html">Investment Advisory</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </header>
+  
+ <div class="main-content">
+    <!-- Section: inner-header -->
+    <section class="inner-header divider layer-overlay overlay-dark-4" data-bg-img="images/bg/bg1.jpg">
+      <div class="container pt-120 pb-60">
+        <!-- Section Content -->
+        <div class="section-content">
+          <div class="row"> 
+            <div class="col-md-6">
+              <h2 class="text-theme-colored2 font-36">Management Consulting</h2>
+              <ol class="breadcrumb text-left mt-10 white">
+                <li><a href="index.php.html">Home</a></li>
+                <li><a href="service.php">services</a></li>
+                <li class="active">Management Consulting</li>
+              </ol>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section: service-->
+    <section>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8 blog-pull-right">
+            <div class="single-service">
+              <img src="images/services/lg2.html" alt="">
+              <h3 class="text-theme-colored line-bottom text-theme-colored">Management Consulting</h3>
+              <p>Consult on Organizational System Development(Organizational Structure and Restructuring, Strategy development, Quality Management).<br>
+              We provide Management and Financial Audit Services,Project Management trainings. And also
+              Micro and Small Scale Business Development, Promotion and Management. 
+
+              </p>
+              <blockquote class="bg-silver-light">We consult companies and organization to help them improve their performance so that the goals set by the companies well be met in an effective and efficient manner.</blockquote>
+            
+              <h4 class="line-bottom mt-20 mb-20 text-theme-colored">Management Consulting Involves</h4>
+              <div class="row">
+                <div class="col-md-6">
+                    <div class="mt-20">
+                      <div class="left media p-0 mb-10"> <a href="#" class="pull-left flip"><i class="fa fa-2x fa-check text-theme-colored"></i></a>
+                        <div class="media-body">
+                          <h5 class="mt-0">Strategy Development</h5>
+                          <p> </p>
+                        </div>
+                      </div>
+                    </div>
+                    <div>
+                      <div class="left media p-0 mb-10"> <a href="#" class="pull-left flip"><i class="fa fa-2x fa-2x fa-check text-theme-colored2"></i></a>
+                        <div class="media-body">
+                          <h5 class="mt-0">Process Improvement</h5>
+                          <p> </p>
+                        </div>
+                      </div>
+                    </div>
+                    <div>
+                      <div class="left media p-0 mb-10"> <a href="#" class="pull-left flip"><i class="fa fa-2x fa-2x fa-check text-theme-colored"></i></a>
+                        <div class="media-body">
+                          <h5 class="mt-0">Organizational Design</h5>
+                          <p></p>
+                        </div>
+                      </div>
+                    </div>
+                    <div>
+                      <div class="left media p-0 mb-10"> <a href="#" class="pull-left flip"><i class="fa fa-2x fa-2x fa-check text-theme-colored"></i></a>
+                        <div class="media-body">
+                          <h5 class="mt-0">Change and Risk Management</h5>
+                          <p></p>
+                        </div>
+                      </div>
+                    </div>
+                    <div>
+                      <div class="left media p-0 mb-10"> <a href="#" class="pull-left flip"><i class="fa fa-2x fa-2x fa-check text-theme-colored"></i></a>
+                        <div class="media-body">
+                          <h5 class="mt-0">Executive Coaching</h5>
+                          <p></p>
+                        </div>
+                      </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="text-center mt-20">
+                    <canvas id="barChart" width="500" height="500"></canvas>
+                  </div>
+                  <div class="clear"></div>
+                  <script type="text/javascript">
+                    
+                    // Bar Chart
+                    var randomScalingFactor = function(){ return Math.round(Math.random()*100)};
+                    var barChartData = {
+                      labels : ["January","February","March","April","May","June","July"],
+                      datasets : [
+                        {
+                          fillColor : "rgba(216, 33, 50, 0.8)",
+                          strokeColor : "rgba(216, 33, 50, 0.8)",
+                          highlightFill: "rgba(0, 0, 0, 0.75)",
+                          highlightStroke: "rgba(0, 0, 0, 1)",
+                          data : [randomScalingFactor(),randomScalingFactor(),randomScalingFactor(),randomScalingFactor(),randomScalingFactor(),randomScalingFactor(),randomScalingFactor()]
+                        },
+                        {
+                          fillColor : "rgba(151,187,205,0.5)",
+                          strokeColor : "rgba(151,187,205,0.8)",
+                          highlightFill : "rgba(151,187,205,0.75)",
+                          highlightStroke : "rgba(151,187,205,1)",
+                          data : [randomScalingFactor(),randomScalingFactor(),randomScalingFactor(),randomScalingFactor(),randomScalingFactor(),randomScalingFactor(),randomScalingFactor()]
+                        }
+                      ]
+
+                    }
+
+
+                    //window load
+                    window.onload = function(){
+
+                      var chart_barChart = document.getElementById("barChart").getContext("2d");
+                      window.myBar = new Chart(chart_barChart).Bar(barChartData, {
+                        responsive : true
+                      });
+                    }
+                  </script>
+                  <!-- JS | Chart-->
+                  <script src="js/chart.js"></script>
+                  <!-- <img src="images/services/1.png" alt=""> -->
+                </div>
+              </div>
+              <h4 class="line-bottom mt-20 mb-20 text-theme-colored">Developing Consulting Strategies</h4>
+              <ul id="myTab" class="nav nav-tabs boot-tabs">
+                <li class="active"><a href="#small" data-toggle="tab">Definining the Problem</a></li>
+                <li><a href="#medium" data-toggle="tab">Collect data and Perform Analysis</a></li>
+                <li><a href="#large" data-toggle="tab">Implement Recommendations</a></li>
+              </ul>
+              <div id="myTabContent" class="tab-content bg-silver-light">
+                <div class="tab-pane fade in active" id="small">
+                  <div class="row">
+                    <div class="col-md-7">
+                      <h3 class="mt-0 text-theme-colored">Defining the Problem <span class="text-theme-colored2">and</span> Gather information</h3>
+                      <div class="mt-20">
+                        <div class="left media p-0 mb-10"> <a href="#" class="pull-left flip"><i class="fa fa-2x fa-line-chart text-theme-colored"></i></a>
+                          <div class="media-body">
+                            <h5 class="mt-0">Defining the problem</h5>
+                            <p>We begin by clearly understanding the client's problem or challenge. Engage in thorough discussions 
+                              and analysis to identify the root causes and underlying issues. 
+                              This step is crucial as it sets the foundation for the entire consulting engagement</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div>
+                        <div class="left media p-0 mb-10"> <a href="#" class="pull-left flip"><i class="fa fa-2x fa-line-chart text-theme-colored"></i></a>
+                          <div class="media-body">
+                            <h5 class="mt-0">Conduct initial research and analysis</h5>
+                            <p>We conduct research togather relevant information, such as industry trends, 
+                              market conditions, and best practices. 
+                              This helps in understanding the context and developing a foundation of knowledge.</p>
+                          </div>
+                        </div>
+                      </div>
+                      <!-- <p class="">We Look at what's working and not working for the company. Often, managers have a good idea of what employees are doing well and what they're doing not-so-well. Often, sales is an easy category to evaluate based on performance. Departments such as accounting or human resources are measured by different metrics such as efficiency, accuracy or turnover. Regardless of what is being measured, whenever areas of deficiency are identified, the next step to developing a training strategy is employee feedback.</p>
+                     -->
+                    </div>
+                    <div class="col-md-5">
+                      <div class="piechart-block text-center">
+                        <!-- <div class="piechart" data-barcolor="#202C45" data-trackcolor="#1196CC" data-scalecolor="#1196CC" data-percent="75" data-linewidth="25" data-size="150">
+                          <span class="percent"></span>
+                          
+                        </div> -->
+                        <img src="images/certificates/defineproblem.jpg" alt="">
+                        <!-- <h5>Porject Completed</h5> -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane fade" id="medium">
+                  <div class="mt-20">
+                    <div class="left media p-0 mb-10"> <a href="#" class="pull-left flip"><i class="fa fa-2x fa-line-chart text-theme-colored"></i></a>
+                      <div class="media-body">
+                        <h5 class="mt-0">Collect data and perform detailed analysis</h5>
+                        <p>
+                          We collect data through various methods, such as interviews, surveys, and data analysis. 
+                          The collected data is then analyzed to identify patterns, trends, and insights that can inform recommendations.</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div>
+                    <div class="left media p-0 mb-10"> <a href="#" class="pull-left flip"><i class="fa fa-2x fa-line-chart text-theme-colored"></i></a>
+                      <div class="media-body">
+                        <h5 class="mt-0">Identify and evaluate options</h5>
+                        <p>We generate a range of potential solutions or options to address the problem or objective.
+                          These options are evaluated based on their feasibility, potential impact, and alignment with the client's goals.</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane fade" id="large">
+                  <div class="mt-20">
+                    <div class="left media p-0 mb-10"> <a href="#" class="pull-left flip"><i class="fa fa-2x fa-line-chart text-theme-colored"></i></a>
+                      <div class="media-body">
+                        <h5 class="mt-0">Develop recommendations</h5>
+                        <p>
+                          We develop a set of recommendations that provide a clear course of action for the client. 
+                          The recommendations are typically supported by data, logical reasoning, and industry best practices.
+                         </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div>
+                    <div class="left media p-0 mb-10"> <a href="#" class="pull-left flip"><i class="fa fa-2x fa-line-chart text-theme-colored"></i></a>
+                      <div class="media-body">
+                        <h5 class="mt-0">Implement the recommendations and Monitor Progress</h5>
+                        <p> 
+                          Once the client approves the recommendations,we support the client in implementing the proposed changes.
+                          This may involve providing guidance, facilitating workshops, or assisting in the execution of the action plan.
+                          Following the implementation of the recommendations, we track the progress and evaluate the outcomes against the desired objectives.
+                            This step helps to assess the effectiveness of the solutions and identify any necessary adjustments
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-12 col-md-4">
+            <div class="sidebar sidebar-left mt-sm-30 ml-40">
+              <div class="widget">
+                <h4 class="widget-title line-bottom">Service <span class="text-theme-colored2">List</span></h4>
+                <div class="services-list">
+                  <ul class="list list-border">
+                     <li><a href="training.php.html">Training</a></li>
+                  <li class="active"><a href="management.php.html">Management Consultancy</a></li>
+                  <li><a href="research.php.html">Research Based Business</a></li>
+                  <li><a href="investment.php.html">Investment Advisory</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="widget">
+                <h4 class="widget-title line-bottom">Opening <span class="text-theme-colored2">Hours</span></h4>
+                  <div class="opening-hours">
+                  <ul class="list-border">
+                    <li class="clearfix"> <span> Mon - Tues :  </span>
+                      <div class="value pull-right"> 8.30 am - 5.30 pm </div>
+                    </li>
+                    <li class="clearfix"> <span> Wednes - Thurs :</span>
+                      <div class="value pull-right"> 8.30 am - 5.30 pm </div>
+                    </li>
+                    <li class="clearfix"> <span> Fri : </span>
+                      <div class="value pull-right"> 8.30 am - 5.30 pm </div>
+                    </li>
+                    <li class="clearfix"> <span> Sun : </span>
+                      <div class="value pull-right"> Closed </div>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              
+              <div class="widget">
+                <h4 class="widget-title line-bottom">Quick <span class="text-theme-colored2">Contact</span></h4>
+                <form id="quick_contact_form_sidebar" name="footer_quick_contact_form" class="quick-contact-form" action="send_email.php"  method="post">
+                  <label for=""></label>
+                  <div class="form-group">
+                    <input name="form_email" class="form-control" type="text" required="" placeholder="Enter Email">
+                  </div>
+                  <div class="form-group">
+                    <textarea name="form_message" class="form-control" required="" placeholder="Enter Message" rows="3"></textarea>
+                  </div>
+                  <div class="form-group">
+                    <input name="form_botcheck" class="form-control" type="hidden" value="">
+                    <button type="submit" class="btn btn-theme-colored btn-flat btn-xs btn-quick-contact text-white pt-5 pb-5" data-loading-text="Please wait...">Send Message</button>
+                  </div>
+                </form>
+
+                <!-- Quick Contact Form Validation-->
+                <script type="text/javascript">
+                  $("#quick_contact_form_sidebar").validate({
+                    submitHandler: function(form) {
+                      var form_btn = $(form).find('button[type="submit"]');
+                      var form_result_div = '#form-result';
+                      $(form_result_div).remove();
+                      form_btn.before('<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>');
+                      var form_btn_old_msg = form_btn.html();
+                      form_btn.html(form_btn.prop('disabled', true).data("loading-text"));
+                      $(form).ajaxSubmit({
+                        dataType:  'json',
+                        success: function(data) {
+                          if( data.status == 'true' ) {
+                            $(form).find('.form-control').val('');
+                          }
+                          form_btn.prop('disabled', false).html(form_btn_old_msg);
+                          $(form_result_div).html(data.message).fadeIn('slow');
+                          setTimeout(function(){ $(form_result_div).fadeOut('slow') }, 6000);
+                        }
+                      });
+                    }
+                  });
+                </script>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="clients bg-theme-colored1">
+      <div class="container pt-0 pb-0">
+        <div class="row">
+          <div class="col-md-12">
+            <!-- Section: Clients -->
+            <!-- <h3> Our Clients</h3> -->
+            <div class="owl-carousel-6col clients-logo transparent text-center">
+              <div class="item"> <a href="#"><img src="images/clients/w1.png" alt=""></a></div>
+              <div class="item"> <a href="#"><img src="images/clients/w2.png" alt=""></a></div>
+              <div class="item"> <a href="#"><img src="images/clients/w3.png" alt=""></a></div>
+              <div class="item"> <a href="#"><img src="images/clients/w4.png" alt=""></a></div>
+              <div class="item"> <a href="#"><img src="images/clients/w5.png" alt=""></a></div>
+
+              <div class="item"> <a href="#"><img src="images/certificates/africanHold2 (1).png" alt=""></a></div>
+              <div class="item"> <a href="#"><img src="images/certificates/giz.png" alt=""></a></div>
+              <div class="item"> <a href="#"><img src="images/certificates/obon voyage.jpg" alt=""></a></div>
+              <div class="item"> <a href="#"><img src="images/certificates/tumsa.jpg" alt=""></a></div>
+              
+              <!-- <div class="item"> <a href="#"><img src="images/clients/w3.png" alt=""></a></div>
+              <div class="item"> <a href="#"><img src="images/clients/w4.png" alt=""></a></div>
+              <div class="item"> <a href="#"><img src="images/clients/w5.png" alt=""></a></div> -->
+          
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+  <!-- end main-content -->
+    <!-- Footer -->
+  <footer id="footer" class="footer bg-black-111">
+    <div class="container pt-70 pb-40">
+      <div class="row border-bottom-black">
+        <div class="col-sm-6 col-md-3">
+          <div class="widget dark">
+            <img class="mt-10 mb-20" alt="" src="images/logo-wide-white.png">
+            <p>CMC addis ababa ethiopia.</p>
+            <ul class="mt-5">
+              <li class="m-0 pl-0 pr-10"> <i class="fa fa-phone text-theme-colored2 mr-5"></i> <a class="text-gray" href="#">+251-91146-6399</a> </li>
+              <li class="m-0 pl-0 pr-10"> <i class="fa fa-envelope-o text-theme-colored2 mr-5"></i> <a class="text-gray" href="mail:nurture.btc@gmail.com">nurture.btc@gmail.com</a> </li>
+              <li class="m-0 pl-0 pr-10"> <i class="fa fa-globe text-theme-colored2 mr-5"></i> <a class="text-gray" href="www.nurturemanagementconsulting.com">nurturemanagementconsulting.com</a> </li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3">
+          <div class="widget dark">
+            <h5 class="widget-title line-bottom-theme-colored-2">Useful Links</h5>
+            <ul class="list-border">
+              <li><a href="index.php.html">Home</a></li>
+              <li><a href="about.php.html">About us</a></li>
+           
+              <li><a href="contact.php.html">Contact</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3">
+          <div class="widget dark">
+            <h5 class="widget-title line-bottom-theme-colored-2">Photos from Instagram</h5>
+            <div id="flickr-feed" class="clearfix">
+              <!-- Flickr Link -->
+            
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-3">
+          <div class="widget dark">
+            <h5 class="widget-title line-bottom-theme-colored-2">Opening Hours</h5>
+            <div class="opening-hours">
+              <ul class="list-border">
+                <li class="clearfix"> <span> Mon - Tues :  </span>
+                  <div class="value pull-right flip"> 8.30 am - 5.30 pm </div>
+                </li>
+                <li class="clearfix text-white"> <span> Wednes - Thurs :</span>
+                  <div class="value pull-right flip"> 8.30 am - 5.30 pm </div>
+                </li>
+                <li class="clearfix"> <span> Fri : </span>
+                  <div class="value pull-right flip"> 8.30 pm - 5.30 pm </div>
+                </li>
+                <li class="clearfix"> <span> Sun : </span>
+                  <div class="value pull-right flip"> Closed </div>
+                </li>
+                <li class="clearfix"> <span> Sat : </span>
+                  <div class="value pull-right flip"> 8.30 am - 5.30 pm </div>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom bg-black-222">
+      <div class="container pt-10 pb-0">
+        <div class="row">
+          <div class="col-md-6 sm-text-center">
+            <p class="font-13 text-black-777 m-0">Nurture Copyright &copy;2019 All Rights Reserved  | Developed by</p>
+            <a href="http://simbotechnology.com"><img src="images/simbo.png" width="115px" alt=""></a>
+          </div>
+          <div class="col-md-6 text-right flip sm-text-center">
+            <div class="widget no-border m-0">
+              <ul class="styled-icons icon-dark icon-circled icon-sm">
+                <li><a href="https://www.facebook.com/profile.php?id=100019690144637"><i class="fa fa-facebook"></i></a></li>
+                <li><a href="https://twitter.com/Nurture_2007"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                <li><a href="https://www.pinterest.com/nurturebtc"><i class="fa fa-pinterest"></i></a></li>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
+</div>
+<!-- end wrapper -->
+  
+<!-- Footer Scripts -->
+<!-- JS | Custom script for all pages -->
+<script src="js/custom.js"></script>
+
+</body>
+
+
+</html>
