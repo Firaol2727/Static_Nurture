@@ -78,6 +78,7 @@ This file contains the common styles of this theme.
 * Footer
 * ===============================================
 */
+
 @import "font-awesome.min.css";
 @import "font-awesome-animation.min.css";
 @import "pe-icon-7-stroke.css";
@@ -91,6 +92,23 @@ This file contains the common styles of this theme.
  * Typography.less
  * -----------------------------------------------
 */
+
+@media screen and (min-width: 768px) {
+  .glance {
+    margin-left: 100px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .glance {
+    margin-left: 0;
+  }
+}
+@media screen and (min-width: 768px) {
+  .jabessa {
+    height: 500px;
+  }
+}
 ::selection {
   background: #333333;
   color: #fff;
