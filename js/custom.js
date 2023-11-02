@@ -367,7 +367,7 @@ var THEMEMASCOT = {};
         TM_preLoaderOnLoad: function() {
             var $preloader = $('#preloader');
             if( $preloader.length > 0 ) {
-                $preloader.delay(200).fadeOut('slow');
+                $preloader.delay(10).fadeOut('slow');
             }
         },
 
