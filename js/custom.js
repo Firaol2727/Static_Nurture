@@ -395,7 +395,7 @@ var THEMEMASCOT = {};
                     var timeout             = $current_item.data('timeout');
 
                     var delay               = $current_item.data('delay');
-                    delay = ( !delay ) ? 2500 : Number(delay) + 2500;
+                    delay = ( !delay ) ? 500 : Number(delay) + 500;
 
                     if( $current_item.hasClass('cookie-enabled') ) {
                         var elementCookie = $.cookie( target );
