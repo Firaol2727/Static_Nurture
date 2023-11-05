@@ -618,18 +618,18 @@ var THEMEMASCOT = {};
                 });
             }
             
-            var $popup_yt_vimeo_gmap = $('.popup-youtube, .popup-vimeo, .popup-gmaps');
-            if( $popup_yt_vimeo_gmap.length > 0 ) {
-                $popup_yt_vimeo_gmap.magnificPopup({
-                    disableOn: 700,
-                    type: 'iframe',
-                    mainClass: 'mfp-fade',
-                    removalDelay: 160,
-                    preloader: false,
+            // var $popup_yt_vimeo_gmap = $('.popup-youtube, .popup-vimeo, .popup-gmaps');
+            // if( $popup_yt_vimeo_gmap.length > 0 ) {
+            //     $popup_yt_vimeo_gmap.magnificPopup({
+            //         disableOn: 700,
+            //         type: 'iframe',
+            //         mainClass: 'mfp-fade',
+            //         removalDelay: 160,
+            //         preloader: false,
 
-                    fixedContentPos: false
-                });
-            }
+            //         fixedContentPos: false
+            //     });
+            // }
 
             var $popup_with_zoom_anim = $('.popup-with-zoom-anim');
             if( $popup_with_zoom_anim.length > 0 ) {
