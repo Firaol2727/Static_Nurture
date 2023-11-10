@@ -93,6 +93,22 @@ This file contains the common styles of this theme.
  * -----------------------------------------------
 */
 
+
+
+@media only screen and (min-width: 600px) {
+  /* Desktop styles */
+  .navbar_image img {
+    content: url('images/mainlogo.jpg');
+  }
+}
+
+@media only screen and (max-width: 599px) {
+  /* Android styles */
+  .navbar_image img {
+    content: url('./images/mainlogo.jpg');
+  }
+}
+
 @media screen and (min-width: 768px) {
   .glance {
     margin-left: 100px;
